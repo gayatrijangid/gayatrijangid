@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=3rd+Year+Engineering+Student;Full+Stack+Developer+%7C+MERN+Stack;DSA+Learner+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-- I’m currently studying Computer Engineering at **SVKM IOT DHULE,MAHARAHSHTRA**
+- I’m currently studying Computer Engineering at **SVKM IOT Dhule,Maharashtra**
 
 - 🌱 I’m currently learning **DSA**
 
