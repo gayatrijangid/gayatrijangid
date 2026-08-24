@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gayatri Jangid</h1>
 <h3 align="center">💻 A passionate Full Stack Developer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=3rd+Year+Engineering+Student;Full+Stack+Developer+%7C+MERN+Stack;DSA+Learner+%7C+Open+Source+Contributor" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧑‍🎓 About Me
